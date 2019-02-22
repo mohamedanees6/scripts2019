@@ -1,4 +1,6 @@
 #!/bin/bash
+# Fuck the pull code starts here
+#
 safepull() {
     echo Doing Safe-Pull from "$1"/"$2";
     git log -1|sed -n 1p| sed -e 's/commit//' > safepullhead.txt && git pull "$1" "$2";

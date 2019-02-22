@@ -18,6 +18,5 @@ fuckthepull() {
      echo Success;
     fi
 }   
-echo "========================================="
-echo "FuckThePull! Config done..."
-echo "=========================================" 
+#
+# Fuck the pull code ends here

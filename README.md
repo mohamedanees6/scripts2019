@@ -16,4 +16,9 @@ For example, `git pull origin master` must be written as `safepull origin master
 
 If in case you are f*cked up, go ahead and type in `fuckthepull` in your terminal and we reset it to previous commit hash. So simple, isn't it!
 
+**How to install?**
+
+
+`curl -L https://raw.githubusercontent.com/mohamedanees6/scripts2019/master/install.sh | sudo sh`
+
 WARNING: Run `fuckthepull` always if you have done `safepull` before.
